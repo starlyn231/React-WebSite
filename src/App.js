@@ -4,7 +4,6 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <h1>Yo</h1>
       <Router>
         <Navbar />
         <Switch>
